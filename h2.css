@@ -10,7 +10,7 @@ body {
 	height: 100vh;
 }
 .container{
-	margin-top:-120%;
+	margin-top:-155%;
 	width: 80%; /* or a specific width */
     height: 50px; /* Adjust height based on your needs */
      overflow: hidden; /* Hides the scrollbar */
